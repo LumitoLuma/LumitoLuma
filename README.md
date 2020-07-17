@@ -1,5 +1,5 @@
 ## About me
-I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I also have a website: [www.lumito.net](https://lumito.net).
+I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I also have a website: [www.lumito.net](https://lumito.net) and a Stack Overflow account: [stackoverflow.com/users/13248902](https://stackoverflow.com/users/13248902).
 
 ***To see my popular repositories, please scroll down to see them. To see all my repositories, please check the repositories tab in [this link](https://github.com/LumitoLuma?tab=repositories).***
 
