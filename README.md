@@ -6,7 +6,7 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I al
 ## Contributions
 **I have made some collaborations on this projects (excluding my own ones):**
 
--   [microsoft/msbuild](https://github.com/microsoft/msbuild)
+-   [microsoft/msbuild](https://github.com/microsoft/msbuild) &nbsp; ([View Pull Request](https://github.com/microsoft/msbuild/pull/5522))
 -   [microsoft/ApplicationInsights-Java](https://github.com/microsoft/ApplicationInsights-Java)
 -   [wjk/BuildXLSetup](https://github.com/wjk/BuildXLSetup)
 
