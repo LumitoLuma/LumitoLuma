@@ -22,7 +22,10 @@ You can contribute with the following things:
 -   Code improvements
 -   Ideas for future programs / services.
 
-Reporting bugs in the contact page is not allowed, unless you have reported them through **Issues** tab and you have not received any comments for a while (minimum a week).
+## Reporting bugs and errors:
+You can report bugs through the Issues tab in the repository you've had the problem.
+
+Remebmer that reporting bugs at the contact page is not allowed, unless you have reported them through Issues tab and you have not received any comments for a while (minimum a week).
 
 <!--
 **LumitoLuma/LumitoLuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
