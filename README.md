@@ -8,6 +8,10 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET.
 -   [microsoft/ApplicationInsights-Java](https://github.com/microsoft/ApplicationInsights-Java)
 -   [wjk/BuildXLSetup](https://github.com/wjk/BuildXLSetup)
 
+### And I opened a (not merged) Pull Request on this repositories:
+
+-   [YOURLS/YORULS](https://github.com/YOURLS/YOURLS)
+
 <!--
 **LumitoLuma/LumitoLuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
