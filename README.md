@@ -1,11 +1,9 @@
 ## About me
-
 I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I also have a website: [www.lumito.net](https://lumito.net).
 
 ***To see my repositories, please scroll down to see them.***
 
 ## Contributions
-
 **I have made some collaborations on this projects (excluding my own ones):**
 
 -   [microsoft/msbuild](https://github.com/microsoft/msbuild)
@@ -17,6 +15,14 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I al
 -   [YOURLS/YORULS](https://github.com/YOURLS/YOURLS)
 
 ## Contributing to my repositories:
+If you want to contribute to the project, please contact me through [www.lumito.net/contact](https://lumito.net/contact) or open a Pull Request.
+
+You can contribute with the following things:
+
+-   Code improvements
+-   Ideas for future programs / services.
+
+Reporting bugs in the contact page is not allowed, unless you have reported them through **Issues** tab and you have not received any comments for a while (minimum a week).
 
 <!--
 **LumitoLuma/LumitoLuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
