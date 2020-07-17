@@ -12,7 +12,7 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I al
 
 **I also opened a (not merged) Pull Request on this repositories:**
 
--   [YOURLS/YORULS](https://github.com/YOURLS/YOURLS) [[View Pull Request](https://github.com/YOURLS/YOURLS/pull/2727)]
+-   [YOURLS/YORULS](https://github.com/YOURLS/YOURLS) &nbsp; ([View Pull Request](https://github.com/YOURLS/YOURLS/pull/2727))
 
 ## Contributing to my repositories:
 If you want to contribute to the project, please contact me through [www.lumito.net/contact](https://lumito.net/contact) or open a Pull Request.
