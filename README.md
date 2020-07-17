@@ -2,7 +2,7 @@
 
 I am a junior developer on GitHub. I have some skills in Java, C# and .NET.
 
-### I have also made some collaborations on this projects:
+### I have made some collaborations on this projects (excluding my own ones):
 
 -   [microsoft/msbuild](https://github.com/microsoft/msbuild)
 -   [microsoft/ApplicationInsights-Java](https://github.com/microsoft/ApplicationInsights-Java)
