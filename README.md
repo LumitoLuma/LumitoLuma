@@ -23,7 +23,7 @@ You can contribute with the following things:
 -   Ideas for future programs / services.
 
 ## Reporting bugs and errors:
-You can report bugs through the Issues tab in the repository you've had the problem.
+You can report bugs through the Issues tab in the repository you had the problem.
 
 Remebmer that reporting bugs at the contact page is not allowed, unless you have reported them through Issues tab and you have not received any comments for a while (minimum a week).
 
