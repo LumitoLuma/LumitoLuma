@@ -27,7 +27,7 @@ You can report bugs through the Issues tab in the repository you had the problem
 
 Remebmer that reporting bugs at the contact page is not allowed, unless you have reported them through Issues tab and you have not received any comments for a while (minimum a week).
 
-### Hope you enjoy my repositories
+### Hope you enjoy my repositories!
 
 <!--
 **LumitoLuma/LumitoLuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
