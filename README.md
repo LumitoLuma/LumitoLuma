@@ -15,7 +15,7 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I al
 -   [YOURLS/YORULS](https://github.com/YOURLS/YOURLS) &nbsp; ([View Pull Request](https://github.com/YOURLS/YOURLS/pull/2727))
 
 ## Contributing to my repositories
-If you want to contribute to the project, please contact me through [www.lumito.net/contact](https://lumito.net/contact) or open a Pull Request.
+If you want to contribute to my repositories, please contact me through [www.lumito.net/contact](https://lumito.net/contact) or open a Pull Request.
 
 You can contribute with the following things:
 
