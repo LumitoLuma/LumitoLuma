@@ -14,7 +14,7 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I al
 
 -   [YOURLS/YORULS](https://github.com/YOURLS/YOURLS) &nbsp; ([View Pull Request](https://github.com/YOURLS/YOURLS/pull/2727))
 
-## Contributing to my repositories:
+## Contributing to my repositories
 If you want to contribute to the project, please contact me through [www.lumito.net/contact](https://lumito.net/contact) or open a Pull Request.
 
 You can contribute with the following things:
@@ -22,12 +22,12 @@ You can contribute with the following things:
 -   Code improvements
 -   Ideas for future programs / services.
 
-## Reporting bugs and errors:
+## Reporting bugs and errors
 You can report bugs through the Issues tab in the repository you had the problem.
 
 Remebmer that reporting bugs at the contact page is not allowed, unless you have reported them through Issues tab and you have not received any comments for a while (minimum a week).
 
-### Hope you enjoy my repositories!
+### Hope you enjoy my repositories
 
 <!--
 **LumitoLuma/LumitoLuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
