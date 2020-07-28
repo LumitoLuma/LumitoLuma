@@ -16,7 +16,7 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I al
 
 ## Repositories I am working in (that are not published)
 
--   WinSudo - Sudo tool for Windows (moreless)
+-   WinSudo - (Moreless) The Sudo tool for Windows
 
 ## Contributing to my repositories
 If you want to contribute to my repositories, please contact me through [www.lumito.net/contact](https://lumito.net/contact) or open a Pull Request.
