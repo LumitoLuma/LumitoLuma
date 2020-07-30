@@ -1,7 +1,7 @@
 ## About me
 I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I also have a website: [www.lumito.net](https://lumito.net) and a Stack Overflow account: [stackoverflow.com/users/13248902](https://stackoverflow.com/users/13248902).
 
-***To see my popular repositories, please scroll down to see them. To see all my repositories, please check the repositories tab in  <a role="menuitem" href="https://github.com/LumitoLuma?tab=repositories" data-ga-click="Header, go to projects, text:your projects" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/LumitoLuma&quot;,&quot;target&quot;:&quot;YOUR_PROJECTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/LumitoLuma&quot;,&quot;user_id&quot;:50250351}}" data-hydro-click-hmac="5a4a9b40015d36e2d242992c57b3eed4822a91596f2d25c6ff2d3110f8441d61" >this link</a>***
+***To see my popular repositories, please scroll down to see them. To see all my repositories, please check the repositories tab in <a role="menuitem" class="dropdown-item" href="https://github.com/LumitoLuma?tab=repositories" data-ga-click="Header, go to projects, text:your projects" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/LumitoLuma&quot;,&quot;target&quot;:&quot;YOUR_PROJECTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/LumitoLuma&quot;,&quot;user_id&quot;:50250351}}" data-hydro-click-hmac="5a4a9b40015d36e2d242992c57b3eed4822a91596f2d25c6ff2d3110f8441d61" >this link</a>***
 
 ## Contributions
 **I have made some collaborations on this projects (excluding my own ones):**
