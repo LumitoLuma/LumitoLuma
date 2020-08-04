@@ -23,6 +23,8 @@ You can contribute with the following things:
 -   Code improvements
 -   Ideas for future programs / services.
 
+If you are going to make big changes in one of my repositories, please contact me before, so you do not make a big effort that leads on a closed Pull Request.
+
 ## Reporting bugs and errors
 You can report bugs through the Issues tab in the repository you had the problem.
 
