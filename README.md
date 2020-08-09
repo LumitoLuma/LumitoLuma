@@ -5,7 +5,7 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I al
 
 ## Contributions
 
-[![Lumito's GitHub stats](https://github-readme-stats.vercel.app/api?username=LumitoLuma&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github-readme-stats.vercel.app/api?username=LumitoLuma&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Lumito's GitHub stats](https://github-readme-stats.vercel.app/api?username=LumitoLuma&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 **I have made some collaborations on this projects (excluding my own ones):**
 
