@@ -4,6 +4,9 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I al
 ***To see my popular repositories, please scroll down to see them. To see all my repositories, please check the repositories tab in [this link](https://github.com/LumitoLuma?tab=repositories)***
 
 ## Contributions
+
+![Lumito's GitHub stats](https://github-readme-stats.vercel.app/api?username=LumitoLuma&show_icons=true&theme=radical)
+
 **I have made some collaborations on this projects (excluding my own ones):**
 
 -   [dotnet/msbuild](https://github.com/dotnet/msbuild) &nbsp; ([View Pull Request](https://github.com/dotnet/msbuild/pull/5522))
