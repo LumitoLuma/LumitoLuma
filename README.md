@@ -4,8 +4,7 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I al
 ***To see my popular repositories, please scroll down to see them. To see all my repositories, please check the repositories tab in [this link](https://github.com/LumitoLuma?tab=repositories)***
 
 ## Contributions
-
-<!--![Lumito's GitHub stats](https://github-readme-stats.vercel.app/api?username=LumitoLuma&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)-->
+![Lumito's GitHub stats](https://github-readme-stats.lumito.vercel.app/api?username=LumitoLuma&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 **I have made some collaborations on this projects (excluding my own ones):**
 
