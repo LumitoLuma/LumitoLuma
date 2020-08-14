@@ -1,5 +1,5 @@
 ## About me
-I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I also have a website: [www.lumito.net](https://lumito.net) and a Stack Overflow account: [stackoverflow.com/users/13248902](https://stackoverflow.com/users/13248902).
+I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I also have a website: [www.lumito.net](https://www.lumito.net) and a Stack Overflow account: [stackoverflow.com/users/13248902](https://stackoverflow.com/users/13248902).
 
 ***To see my popular repositories, please scroll down to see them. To see all my repositories, please check the repositories tab in [this link](https://github.com/LumitoLuma?tab=repositories)***
 
@@ -18,7 +18,7 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I al
 -   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) &nbsp; ([View Pull Request](https://github.com/YOURLS/YOURLS/pull/2739))
 
 ## Contributing to my repositories
-If you want to contribute to my repositories, please contact me through [www.lumito.net/contact](https://lumito.net/contact) or open a Pull Request.
+If you want to contribute to my repositories, please contact me through [www.lumito.net/contact](https://www.lumito.net/contact) or open a Pull Request.
 
 You can contribute with the following things:
 
