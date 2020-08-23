@@ -8,6 +8,7 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I al
 
 **I have made some collaborations on this projects (excluding my own ones):**
 
+-   [leecher1337/ntvdmx64](https://github.com/leecher1337/ntvdmx64) &nbsp; ([View Pull Request](https://github.com/leecher1337/ntvdmx64/pull/102))
 -   [riverar/mach2](https://github.com/riverar/mach2) &nbsp; ([View Pull Request](https://github.com/riverar/mach2/pull/23))
 -   [dotnet/msbuild](https://github.com/dotnet/msbuild) &nbsp; ([View Pull Request](https://github.com/dotnet/msbuild/pull/5522))
 -   [microsoft/ApplicationInsights-Java](https://github.com/microsoft/ApplicationInsights-Java) &nbsp; ([View Pull Request](https://github.com/microsoft/ApplicationInsights-Java/pull/1280))
@@ -15,7 +16,6 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I al
 
 **I also opened a (not merged) Pull Request on this repositories:**
 
--   [leecher1337/ntvdmx64](https://github.com/leecher1337/ntvdmx64) &nbsp; ([View Pull Request](https://github.com/leecher1337/ntvdmx64/pull/102))
 -   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) &nbsp; ([View Pull Request](https://github.com/YOURLS/YOURLS/pull/2739))
 
 ## Organizations
