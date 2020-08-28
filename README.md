@@ -19,7 +19,7 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I al
 -   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) &nbsp; ([View Pull Request](https://github.com/YOURLS/YOURLS/pull/2739))
 
 ## Organizations
-I am currently in only one organization, [EQDiet](https://github.com/EQDiet), and I am also the creator of it. [EQDiet](https://github.com/EQDiet) is a free open-source mobile and desktop app that allows you to know how many kilocalories you have eaten with each food.
+I am currently in only one organization, [EQDiet](https://github.com/EQDiet), and I am also the creator of it. [EQDiet](https://github.com/EQDiet) is a free open-source mobile and desktop app that allows you to know how many kilocalories you have eaten with each food. You can visit it's website [here](https://eqdiet.weebly.com).
 
 ## Contributing to my repositories
 If you want to contribute to my repositories, please contact me through [www.lumito.net/contact](https://www.lumito.net/contact) or open a Pull Request.
