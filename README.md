@@ -16,6 +16,7 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I al
 
 **I also opened a (not merged) Pull Request on this repositories:**
 
+-   [arduino/arduino-pro-ide](https://github.com/arduino/arduino-pro-ide) &nbsp; ([View Pull Request](https://github.com/arduino/arduino-pro-ide/pull/353))
 -   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) &nbsp; ([View Pull Request](https://github.com/YOURLS/YOURLS/pull/2739))
 
 ## Organizations
