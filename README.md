@@ -15,9 +15,7 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I al
 -   [microsoft/ApplicationInsights-Java](https://github.com/microsoft/ApplicationInsights-Java) &nbsp; ([View Pull Request](https://github.com/microsoft/ApplicationInsights-Java/pull/1280))
 -   [wjk/BuildXLSetup](https://github.com/wjk/BuildXLSetup) &nbsp; ([View Pull Request](https://github.com/wjk/BuildXLSetup/pull/1))
 
-**I also opened a (not merged) Pull Request on this repositories:**
-
--   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) &nbsp; ([View Pull Request](https://github.com/YOURLS/YOURLS/pull/2739))
+<!--**I also opened a (not merged) Pull Request on this repositories:**-->
 
 ## Organizations
 I am currently in only one organization, [EQDiet](https://github.com/EQDiet), and I am also the creator of it. [EQDiet](https://github.com/EQDiet) is a free open-source mobile and desktop app that allows you to know how many kilocalories you have eaten with each food. You can visit it's website [here](https://eqdiet.weebly.com).
