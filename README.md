@@ -17,6 +17,7 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I al
 
 **I also opened a (not merged) Pull Request on this repositories:**
 
+-   [msys2/MSYS2-packages](https://github.com/msys2/MSYS2-packages) &nbsp; ([View Pull Request](https://github.com/msys2/MSYS2-packages/pull/2247))
 -   [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) &nbsp; ([View Pull Request](https://github.com/ScoopInstaller/Main/pull/1576))
 -   [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) &nbsp; ([View Pull Request](https://github.com/Endermanch/MalwareDatabase/pull/75))
 
