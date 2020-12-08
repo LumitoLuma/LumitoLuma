@@ -39,6 +39,11 @@ You can report bugs through the Issues tab in the repository you had the problem
 
 Remebmer that reporting bugs at the contact page is not allowed, unless you have reported them through Issues tab and you have not received any comments for a while (minimum a week).
 
+## Discussing about other things
+You can ask, answer and discuss about my software/website/repos in the new [Discussions page](https://github.com/LumitoLuma/LumitoLuma/discussions).
+
+Remember to read the [guidelines](https://github.com/LumitoLuma/LumitoLuma/discussions/1) before posting.
+
 ### Hope you enjoy my repositories!
 
 <!--
