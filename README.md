@@ -8,6 +8,7 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I al
 
 **I have made some collaborations on this projects (excluding my own ones):**
 
+-   [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) &nbsp; ([View Pull Request](https://github.com/ScoopInstaller/Main/pull/1576))
 -   [msys2/MSYS2-packages](https://github.com/msys2/MSYS2-packages) &nbsp; ([View Pull Request](https://github.com/msys2/MSYS2-packages/pull/2247))
 -   [arduino/arduino-pro-ide](https://github.com/arduino/arduino-pro-ide) &nbsp; ([View Pull Request](https://github.com/arduino/arduino-pro-ide/pull/353))
 -   [leecher1337/ntvdmx64](https://github.com/leecher1337/ntvdmx64) &nbsp; ([View Pull Request](https://github.com/leecher1337/ntvdmx64/pull/102))
@@ -18,7 +19,6 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I al
 
 **I also opened a (not merged) Pull Request on this repositories:**
 
--   [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) &nbsp; ([View Pull Request](https://github.com/ScoopInstaller/Main/pull/1576))
 -   [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) &nbsp; ([View Pull Request](https://github.com/Endermanch/MalwareDatabase/pull/75))
 
 ## Organizations
