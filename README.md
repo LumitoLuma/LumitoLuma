@@ -16,6 +16,7 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I al
 -   [dotnet/msbuild](https://github.com/dotnet/msbuild) &nbsp; ([View Pull Request](https://github.com/dotnet/msbuild/pull/5522))
 -   [microsoft/ApplicationInsights-Java](https://github.com/microsoft/ApplicationInsights-Java) &nbsp; ([View Pull Request](https://github.com/microsoft/ApplicationInsights-Java/pull/1280))
 -   [wjk/BuildXLSetup](https://github.com/wjk/BuildXLSetup) &nbsp; ([View Pull Request](https://github.com/wjk/BuildXLSetup/pull/1))
+-   [ProgramoErgoSum/Tutoriales](https://github.com/ProgramoErgoSum/Tutoriales) &nbsp; ([View Pull Request](https://github.com/ProgramoErgoSum/Tutoriales/pull/5))
 
 **I also opened a (not merged) Pull Request on this repositories:**
 
