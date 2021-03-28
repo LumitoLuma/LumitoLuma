@@ -10,7 +10,6 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I al
 
 -   [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) &nbsp; ([View Pull Request](https://github.com/ScoopInstaller/Main/pull/1576))
 -   [msys2/MSYS2-packages](https://github.com/msys2/MSYS2-packages) &nbsp; ([View Pull Request](https://github.com/msys2/MSYS2-packages/pull/2247))
--   [arduino/arduino-pro-ide](https://github.com/arduino/arduino-pro-ide) &nbsp; ([View Pull Request](https://github.com/arduino/arduino-pro-ide/pull/353))
 -   [leecher1337/ntvdmx64](https://github.com/leecher1337/ntvdmx64) &nbsp; ([View Pull Request](https://github.com/leecher1337/ntvdmx64/pull/102))
 -   [riverar/mach2](https://github.com/riverar/mach2) &nbsp; ([View Pull Request](https://github.com/riverar/mach2/pull/23))
 -   [dotnet/msbuild](https://github.com/dotnet/msbuild) &nbsp; ([View Pull Request](https://github.com/dotnet/msbuild/pull/5522))
