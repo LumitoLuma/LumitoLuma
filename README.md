@@ -19,7 +19,7 @@ I am a junior developer on GitHub. I have some skills in Java, C# and .NET. I al
 
 **I also opened a (not merged) Pull Request on this repositories:**
 
--   [zkemble/AVRDUDESS](https://github.com/zkemble/AVRDUDESS) &nbsp; ([View Pull Request](https://github.com/zkemble/AVRDUDESS/pull/42))
+-   [zkemble/AVRDUDESS](https://github.com/zkemble/AVRDUDESS) &nbsp; ([View Pull Request 1](https://github.com/zkemble/AVRDUDESS/pull/42), [View Pull Request 2](https://github.com/zkemble/AVRDUDESS/pull/49))
 -   [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) &nbsp; ([View Pull Request](https://github.com/Endermanch/MalwareDatabase/pull/75))
 
 ## Organizations
